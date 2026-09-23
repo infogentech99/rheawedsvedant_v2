@@ -36,20 +36,20 @@ export default function Home() {
     //   time: "Join Us at 03:00 PM Onwards",
     //   link: "https://maps.app.goo.gl/a9VUbZpPrKCWrjy4A",
     // },
-    {
-      title_ceremony: "The Sacred Promise",
-      image: "/assets/scared.webp",
-      date: "Sunday, November 1st 2026",
-      venue: "The Central Park Hotel",
-      venue_address: (
-        <>
-          Champagne Ballroom of Novotel Hotel,
-          <br /> Balraj Sahni Marg, Juhu Beach, Mumbai - 400049
-        </>
-      ),
-      time: "Join Us at 03:30 PM Onwards",
-      link: "https://maps.app.goo.gl/QLJvPyZLZHhhmfKm7",
-    },
+    // {
+    //   title_ceremony: "The Sacred Promise",
+    //   image: "/assets/scared.webp",
+    //   date: "Sunday, November 1st 2026",
+    //   venue: "The Central Park Hotel",
+    //   venue_address: (
+    //     <>
+    //       Champagne Ballroom of Novotel Hotel,
+    //       <br /> Balraj Sahni Marg, Juhu Beach, Mumbai - 400049
+    //     </>
+    //   ),
+    //   time: "Join Us at 03:30 PM Onwards",
+    //   link: "https://maps.app.goo.gl/QLJvPyZLZHhhmfKm7",
+    // },
     {
       title_ceremony: "Grand Soirée",
       image: "/assets/grand.webp",

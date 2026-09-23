@@ -22,20 +22,20 @@ export default function Home() {
       link: "https://maps.app.goo.gl/xTJNNFMQJL4RunQw9",
     },
 
-    {
-      title_ceremony: "Rang-e-Mehendi",
-      image: "/assets/mehandi.webp",
-      date: "Thursday, October 29th 2026",
-      venue: "The Central Park Hotel",
-      venue_address: (
-        <>
-          Mars A/702, Vasant Galaxy, Bangur Nagar,
-          <br /> Goregaon W - 400104
-        </>
-      ),
-      time: "Join Us at 03:00 PM Onwards",
-      link: "https://maps.app.goo.gl/a9VUbZpPrKCWrjy4A",
-    },
+    // {
+    //   title_ceremony: "Rang-e-Mehendi",
+    //   image: "/assets/mehandi.webp",
+    //   date: "Thursday, October 29th 2026",
+    //   venue: "The Central Park Hotel",
+    //   venue_address: (
+    //     <>
+    //       Mars A/702, Vasant Galaxy, Bangur Nagar,
+    //       <br /> Goregaon W - 400104
+    //     </>
+    //   ),
+    //   time: "Join Us at 03:00 PM Onwards",
+    //   link: "https://maps.app.goo.gl/a9VUbZpPrKCWrjy4A",
+    // },
     {
       title_ceremony: "The Sacred Promise",
       image: "/assets/scared.webp",

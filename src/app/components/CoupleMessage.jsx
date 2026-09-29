@@ -83,7 +83,7 @@ export default function CoupleMessage() {
 
   return (
     <div className="bg-[url('/assets/bg_three.webp')] bg-cover bg-no-repeat">
-      <div className="flex flex-col items-center h-840 md:h-1300 lg:h-1490 3xl:h-1640">
+      <div className="flex flex-col items-center h-700 md:h-1170 lg:h-1490 3xl:h-1640">
         {/* <img
           src="/assets/place.webp"
           alt="icon"
@@ -302,9 +302,9 @@ export default function CoupleMessage() {
           <hr className="w-10 lg:w-20 md:border my-3 md:my-6 border-[#D49900]" />
         </div>
 
-        <div className="flex justify-center mt-10 md:mt-20 pb-15 md:pb-24">
-          <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 gap-10 md:gap-14 lg:gap-0">
-            <div className="flex flex-col items-center justify-center text-center">
+        <div className="flex justify-center mt-10 md:mt-20 pb-15 md:pb-24 items-center">
+          <div className="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-1 gap-10 md:gap-14 lg:gap-0">
+            {/* <div className="flex flex-col items-center justify-center text-center">
               <img
                 src="/assets/baarat.png"
                 alt="weather"
@@ -316,8 +316,8 @@ export default function CoupleMessage() {
               <p className="font-eb-garamond font-medium text-sm md:text-base lg:text-xl mt-4 md:leading-6 text-[#D49900] px-4">
                 Baarat begins at 2:15pm at Novotel Entrance Gate
               </p>
-            </div>
-            <div className="flex flex-col items-center justify-center text-center">
+            </div> */}
+            {/* <div className="flex flex-col items-center justify-center text-center">
               <img
                 src="/assets/varmala.png"
                 alt="weather"
@@ -330,7 +330,7 @@ export default function CoupleMessage() {
                 Varmala to take place between 2:45pm to 3:30pm at <br />{" "}
                 poolside of Novotel Hotel
               </p>
-            </div>
+            </div> */}
 
             <div className="flex flex-col items-center justify-center text-center">
               <img
